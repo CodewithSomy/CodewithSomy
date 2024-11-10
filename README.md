@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CodewithSomy
--  🌱 I’m currently learning python
+-  🌱 I’m currently learning python and java
 - 😄 Pronouns: He/Him
-- looking forward to working with everybody
-- 
+- Can do basic C and Python programms
+- In college
 
 <!---
 CodewithSomy/CodewithSomy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
